@@ -8,6 +8,7 @@
 
 # How the program works
 
-When you run the program it starts generationg a maze
+When you run the program it starts generationg a maze.
+You can change the size of the maze by changing width and height variables in the program. They must always be a multiple of 20.
 ![While Generating]()  
 ![After Generation is complete]()
