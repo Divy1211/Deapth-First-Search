@@ -9,5 +9,5 @@
 # How the program works
 
 When you run the program it starts generationg a maze
-![While Generating]()
-![After Generation is complete]
+![While Generating]()  
+![After Generation is complete]()
