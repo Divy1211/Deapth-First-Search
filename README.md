@@ -10,5 +10,5 @@
 
 When you run the program it starts generationg a maze.
 You can change the size of the maze by changing width and height variables in the program. They must always be a multiple of 20.
-![While Generating]()  
-![After Generation is complete]()
+![While Generating](https://github.com/Divy1211/Deapth-First-Search/blob/master/my_drawing.png)  
+![After Generation is complete](https://github.com/Divy1211/Deapth-First-Search/blob/master/mydrawing.png)
